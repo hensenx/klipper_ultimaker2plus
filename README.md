@@ -4,5 +4,4 @@ First working klipper config for Ultimaker 2+.
 
 Note that nozzle size is set to 0.4mm.
 
-Know bugs:
-Material insert macro needs to be tweaked.
+
