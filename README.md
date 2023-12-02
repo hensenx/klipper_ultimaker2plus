@@ -1,7 +1,11 @@
 # klipper_ultimaker2plus
 
-First working klipper config for Ultimaker 2+.
+Klipper config for Ultimaker 2+, running on Raspberry Pi 3B running Mainsail.
 
-Note that nozzle size is set to 0.4mm.
+Based on https://www.instructables.com/Ultimaker-2-and-Klipper/
 
-Added support klipper screen load and unload filament. Note that Klipper Screen load and unload filament assumes 220/210C temp.
+Includes multiple improvements such as better macros, namely material change macros and 4-point bedleveling.
+
+Note that the nozzle size is set to 0.4mm.
+
+Added support Klipper screen load and unload filament. Note that Klipper Screen load and unload filament assumes 220/210C temp.
